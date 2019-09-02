@@ -1,3 +1,5 @@
+//Rikke Louise Carlsson
+
 'use strict';
 
 let tails = 0;
